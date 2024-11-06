@@ -1,6 +1,6 @@
 # Loan Project
 
-This repository contains a machine learning project that aims to predict loan defaults using data obtained from Lending Club, Kaggle, and Zindi.
+This repository contains a machine learning project that aims to predict loan defaults using data obtained from Lending Club,CBN website.
 
 ## Overview
 

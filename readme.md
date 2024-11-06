@@ -4,7 +4,7 @@ This repository contains a machine learning project that aims to predict loan de
 
 ## Overview
 
-Lending money is an essential part of the economy, and financial institutions need to ensure that they lend money to people who are likely to repay their loans. In this project, I explore the use of machine learning to predict loan defaults using data from Lending Club, Kaggle, and Zindi. The dataset includes various features such as the borrower's credit score, debt-to-income ratio, loan amount, and purpose of the loan.
+Lending money is an essential part of the economy, and financial institutions need to ensure that they lend money to people who are likely to repay their loans. In this project, I explore the use of machine learning to predict loan defaults using data from Lending Club. The dataset includes various features such as the borrower's credit score, debt-to-income ratio, loan amount, and purpose of the loan.
 
 ## Contents
 
